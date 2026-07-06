@@ -1,6 +1,6 @@
 # NeuronOS — Phase 1 Planning Documents
 
-**Status:** Planning phase. No application code exists or will be written until the explicit instruction "Begin Build Phase" is given.
+**Status:** Build Phase began 2026-07-06 ("Begin Build Phase" given). Phase A (de-risk spikes, doc 13) in progress: spike A1 (3D canvas) first pass complete at [`spikes/a1-canvas/`](../../spikes/a1-canvas/README.md) — hardware fps measurement still open; spike A2 (AI pipeline) blocked on model API keys. These documents remain the binding plan.
 
 **Project codename:** Third-eye · **Product name:** NeuronOS
 
